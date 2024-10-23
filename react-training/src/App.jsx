@@ -1,5 +1,5 @@
 const App = () => {
-  return <div></div>;
+  return <div><i>Jest git</i></div>;
 };
 
 export default App;
