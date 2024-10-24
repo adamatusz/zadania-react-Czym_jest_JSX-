@@ -1,3 +1,10 @@
+/* 
+  Masz za zadanie poprawić kod JSX w pliku App.jsx, 
+  który nie kompiluje się poprawnie z powodu błędów
+  strukturalnych oraz zbędnych elementów. Należy
+  również pozbyć się błędów w konsoli. 
+*/
+
 // const App = () => {
 
 // const header = "Witaj w React"
